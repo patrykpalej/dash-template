@@ -11,4 +11,4 @@ This is a template of a dashboard in Dash Python framework. It contains 4 files:
 
 This template contains two simple inputs and two outputs.
 
-![img](img.png)
+![img](img/img.png)
